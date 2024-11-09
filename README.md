@@ -11,7 +11,7 @@ Realizaremos el entrenamiento en Google Colab, configurando un entorno con las s
 
 Puedes encontrar el código para ejecutar el entrenamiento en Colab en el siguiente enlace:
 
-[FaceEmotion.ipynb](https://github.com/Josefo22/Detector-emociones/blob/master/FaceEmotion.ipynb)
+[FaceEmotion.ipynb](https://github.com/Josefo22/Detector-Emociones/blob/main/Face%20emotion.ipynb)
 
 ## Dataset
 
